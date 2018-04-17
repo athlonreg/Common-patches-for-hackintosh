@@ -617,6 +617,24 @@
 				g32UD5CQkJCQkA==
 				</data>
 			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>PM981 NVMe Patch</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>
+				9sEQD4VBAQAA
+				</data>
+				<key>InfoPlistPatch</key>
+				<false/>
+				<key>Name</key>
+				<string>IONVMeFamily</string>
+				<key>Replace</key>
+				<data>
+				9sEBD4VBAQAA
+				</data>
+			</dict>
 		</array>
 	</dict>
 </dict>
