@@ -1497,6 +1497,24 @@
 				RiV1VHh4eHgA
 				</data>
 			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>VRAM 1536MB -&gt; 2048MB, ig-platform-id: 0x0a260005 (credit athlonreg)</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>
+				AQMDAwAAAAIAADABAABQAAAAAGA=
+				</data>
+				<key>InfoPlistPatch</key>
+				<false/>
+				<key>Name</key>
+				<string>AppleIntelFramebufferAzul</string>
+				<key>Replace</key>
+				<data>
+				AQMDAwAAAAIAADABAABQAAAAAIA=
+				</data>
+			</dict>
 		</array>
 	</dict>
 </dict>
