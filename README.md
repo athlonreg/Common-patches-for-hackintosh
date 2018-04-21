@@ -7,5 +7,7 @@
 - 4-17-2018
   - PM981 NVMe patch
 - 4-21-2018
-  - HD4200_440_4600显存补丁 ig-platform-id: 0x0a260005
+  - VRAM 1536->2048 ig-platform-id: 0x0a260005
+  - VRAM 1536->2048 ig-platform-id: 0x59160000
+
 
