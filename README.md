@@ -7,8 +7,11 @@
 - 4-17-2018
   - PM981 NVMe patch
 - 4-21-2018
-  - VRAM 1536->2048 ig-platform-id: 0x0a260005
-  - VRAM 1536->2048 ig-platform-id: 0x59160000
+  - VRAM 1536->2048 for ig-platform-id 0x0a260005
+  - VRAM 1536->2048 for ig-platform-id 0x59160000
 - 5-2-2018
   - 添加禁用`Apple` `I2C`补丁，禁止`AppleIntelLpssI2C`连接到i2c控制器
+- 5-4-2018
+  - VRAM 1024->2048 for ig-platform-id 0x0a160000
+  
 
