@@ -1747,6 +1747,24 @@
 				AAAAgNkKAADZCgAAAAAAAA==
 				</data>
 			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>change 15 port limit to 26 in XHCI kext for 10.13.6 beta 1 (credit Canvas)</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>
+				g32IDw+DpwQ=
+				</data>
+				<key>InfoPlistPatch</key>
+				<false/>
+				<key>Name</key>
+				<string>com.apple.driver.usb.AppleUSBXHCI</string>
+				<key>Replace</key>
+				<data>
+				g32IGg+DpwQ=
+				</data>
+			</dict>
 		</array>
 	</dict>
 </dict>
