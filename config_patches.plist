@@ -1807,5 +1807,36 @@
 			</dict>
 		</array>
 	</dict>
+	<key>KernelToPatch</key>
+	<array>
+		<dict>
+			<key>Comment</key>
+			<string>Disable panic kext logging on 10.13 Debug kernel</string>
+			<key>Disabled</key>
+			<false/>
+			<key>Find</key>
+			<data>
+			sABMi1Xw
+			</data>
+			<key>Replace</key>
+			<data>
+			SIPEQF3D
+			</data>
+		</dict>
+		<dict>
+			<key>Comment</key>
+			<string>Disable panic kext logging on 10.13 Release kernel</string>
+			<key>Disabled</key>
+			<false/>
+			<key>Find</key>
+			<data>
+			igKEwHRE
+			</data>
+			<key>Replace</key>
+			<data>
+			igKEwOtE
+			</data>
+		</dict>
+	</array>
 </dict>
 </plist>
