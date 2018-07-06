@@ -1927,6 +1927,66 @@
 				60ZI/wUCUgg=
 				</data>
 			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>DVMT for AppleIntelBDWGraphicsFramebuffer (Credits Ricky) for 10.14 beta2</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>
+				dkBI/wVCKwY=
+				</data>
+				<key>InfoPlistPatch</key>
+				<false/>
+				<key>MatchOS</key>
+				<string>10.14 beta3</string>
+				<key>Name</key>
+				<string>AppleIntelBDWGraphicsFramebuffer</string>
+				<key>Replace</key>
+				<data>
+				60BI/wVCKwY=
+				</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>DVMT for AppleIntelSKLGraphicsFramebuffer﻿ (Credits Ricky) for 10.14 beta2</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>
+				dkBI/wXx6Qc=
+				</data>
+				<key>InfoPlistPatch</key>
+				<false/>
+				<key>MatchOS</key>
+				<string>10.14 beta3</string>
+				<key>Name</key>
+				<string>AppleIntelSKLGraphicsFramebuffer</string>
+				<key>Replace</key>
+				<data>
+				60BI/wXx6Qc=
+				</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>DVMT for AppleIntelKBLGraphicsFramebuffer﻿ (Credits Ricky) for 10.14 beta2</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>
+				dkZI/wUiVQg=
+				</data>
+				<key>InfoPlistPatch</key>
+				<false/>
+				<key>MatchOS</key>
+				<string>10.14 beta3</string>
+				<key>Name</key>
+				<string>AppleIntelKBLGraph﻿icsFramebuffer﻿﻿﻿</string>
+				<key>Replace</key>
+				<data>
+				60ZI/wUiVQg=
+				</data>
+			</dict>
 		</array>
 	</dict>
 	<key>KernelToPatch</key>
