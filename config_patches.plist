@@ -1929,7 +1929,7 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>DVMT for AppleIntelBDWGraphicsFramebuffer (Credits Ricky) for 10.14 beta2</string>
+				<string>DVMT for AppleIntelBDWGraphicsFramebuffer (Credits Ricky) for 10.14 beta3</string>
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
@@ -1949,7 +1949,7 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>DVMT for AppleIntelSKLGraphicsFramebuffer﻿ (Credits Ricky) for 10.14 beta2</string>
+				<string>DVMT for AppleIntelSKLGraphicsFramebuffer﻿ (Credits Ricky) for 10.14 beta3</string>
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
@@ -1969,7 +1969,7 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>DVMT for AppleIntelKBLGraphicsFramebuffer﻿ (Credits Ricky) for 10.14 beta2</string>
+				<string>DVMT for AppleIntelKBLGraphicsFramebuffer﻿ (Credits Ricky) for 10.14 beta3</string>
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
