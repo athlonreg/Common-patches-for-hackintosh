@@ -2,6 +2,10 @@
 > 黑苹果常用的补丁
 
 # Changelog
+- 18-7-2018
+  - 10.14 beta3 beta4 改变`USB`端口限制补丁(15 -> 26)
+  - 10.14 beta3 beta4 破解`USB`端口限制补丁(去除限制)
+
 - 6-7-2018
   - 10.14 beta3 `DVMT`补丁 for BDW SKL KBL
 
