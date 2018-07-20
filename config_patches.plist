@@ -1952,6 +1952,42 @@
 				60ZI/wUiVQg=
 				</data>
 			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>VRAM patch for 3ea50009 3e920009 3e9b0009 3ea50000 3e920000 3e000000 3e9b0000 3ea50004</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>
+				AQMDAwAAkAMAAAAAAAAAYA==
+				</data>
+				<key>InfoPlistPatch</key>
+				<false/>
+				<key>Name</key>
+				<string>com.apple.driver.AppleIntelCFLGraphicsFramebuffer</string>
+				<key>Replace</key>
+				<data>
+				AQMDAwAAkAMAAAAAAAAAgA==
+				</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>VRAM patch for 3e9b0006</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>
+				AQEBAQAAYAIAAAAAAAAAYA==
+				</data>
+				<key>InfoPlistPatch</key>
+				<false/>
+				<key>Name</key>
+				<string>com.apple.driver.AppleIntelCFLGraphicsFramebuffer</string>
+				<key>Replace</key>
+				<data>
+				AQEBAQAAYAIAAAAAAAAAgA==
+				</data>
+			</dict>
 		</array>
 	</dict>
 	<key>KernelToPatch</key>
