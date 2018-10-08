@@ -2,6 +2,9 @@
 > 黑苹果常用的补丁
 
 # Changelog
+- 10-8-2018 
+  - 10.14.1破解`USB`端口限制补丁（去除限制）
+  - disable IOBufferCopyController (Credit by DalianSky)，解决部分8代CPU无法全新安装的问题
 - 9-8-2018
   - DVMT for AppleIntelCFLGraphicsFramebuffer﻿ (Credits DalianSky) for 10.14
 - 20-7-2018
