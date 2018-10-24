@@ -2284,6 +2284,86 @@
 				SU9LaXM=
 				</data>
 			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>Set the number of active lanes to 4 (for laptop with 4K display) (by FireWolf)</string>
+				<key>Disabled</key>
+				<true/>
+				<key>Find</key>
+				<data>
+				VUiJ5Uj/BaVGBwCLlsAlAACKjg==
+				</data>
+				<key>InfoPlistPatch</key>
+				<false/>
+				<key>MatchOS</key>
+				<string>10.14</string>
+				<key>Name</key>
+				<string>AppleIntelCFLGraphicsFramebuffer</string>
+				<key>Replace</key>
+				<data>
+				VUiJ5bgEAAAAiYa8JQAAMcBdww==
+				</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>Set the number of active lanes to 2 (for laptop with 1080p or below display) (by FireWolf)</string>
+				<key>Disabled</key>
+				<true/>
+				<key>Find</key>
+				<data>
+				VUiJ5Uj/BaVGBwCLlsAlAACKjg==
+				</data>
+				<key>InfoPlistPatch</key>
+				<false/>
+				<key>MatchOS</key>
+				<string>10.14</string>
+				<key>Name</key>
+				<string>AppleIntelCFLGraphicsFramebuffer</string>
+				<key>Replace</key>
+				<data>
+				VUiJ5bgCAAAAiYa8JQAAMcBdww==
+				</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>Set the number of active lanes to 4 (for laptop with 4K display) (by FireWolf)</string>
+				<key>Disabled</key>
+				<true/>
+				<key>Find</key>
+				<data>
+				VUiJ5Uj/Bb1KBwCLlsAlAACKjg==
+				</data>
+				<key>InfoPlistPatch</key>
+				<false/>
+				<key>MatchOS</key>
+				<string>10.14.1</string>
+				<key>Name</key>
+				<string>AppleIntelCFLGraphicsFramebuffer</string>
+				<key>Replace</key>
+				<data>
+				VUiJ5bgEAAAAiYa8JQAAMcBdww==
+				</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>Set the number of active lanes to 2 (for laptop with 1080p or below display) (by FireWolf)</string>
+				<key>Disabled</key>
+				<true/>
+				<key>Find</key>
+				<data>
+				VUiJ5Uj/Bb1KBwCLlsAlAACKjg==
+				</data>
+				<key>InfoPlistPatch</key>
+				<false/>
+				<key>MatchOS</key>
+				<string>10.14.1</string>
+				<key>Name</key>
+				<string>AppleIntelCFLGraphicsFramebuffer</string>
+				<key>Replace</key>
+				<data>
+				VUiJ5bgCAAAAiYa8JQAAMcBdww==
+				</data>
+			</dict>
 		</array>
 	</dict>
 	<key>KernelToPatch</key>
