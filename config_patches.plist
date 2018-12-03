@@ -10,6 +10,96 @@
 		<array>
 			<dict>
 				<key>Comment</key>
+				<string>#option1 UHD 4600 framebuffer4K</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>
+				AwAiDQADAwMAAAACAAAwAQ==
+				</data>
+				<key>InfoPlistPatch</key>
+				<false/>
+				<key>Name</key>
+				<string>AppleIntelFramebufferAzul</string>
+				<key>Replace</key>
+				<data>
+				AwAiDQADAwMAAAAEAAAAAw==
+				</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>#option2 UHD 4600 Increse BIOS-allocated memory to 64MB and framebuffer size to 34MB</string>
+				<key>Disabled</key>
+				<true/>
+				<key>Find</key>
+				<data>
+				AwAiDQADAwMAAAACAAAwAQ==
+				</data>
+				<key>InfoPlistPatch</key>
+				<false/>
+				<key>Name</key>
+				<string>AppleIntelFramebufferAzul</string>
+				<key>Replace</key>
+				<data>
+				AwAiDQADAwMAAAAEAAAgAg==
+				</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>#option3 UHD 4600 Azul-Port_0x5-DP2HDMI</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>
+				AQUJAAAEAACHAAAA
+				</data>
+				<key>InfoPlistPatch</key>
+				<false/>
+				<key>Name</key>
+				<string>AppleIntelFramebufferAzul</string>
+				<key>Replace</key>
+				<data>
+				AQUJAAAIAAAGAAAA
+				</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>#option4 UHD 4600 Azul-Port_0x6-DP2DVI</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>
+				AgQKAAAEAACHAAAA
+				</data>
+				<key>InfoPlistPatch</key>
+				<false/>
+				<key>Name</key>
+				<string>AppleIntelFramebufferAzul</string>
+				<key>Replace</key>
+				<data>
+				AgQKAAACAAAGAAAA
+				</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>#option5 UHD 4600  Azul-Port_0x7-DP</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>
+				AwYIAAAEAAARAAAA
+				</data>
+				<key>InfoPlistPatch</key>
+				<false/>
+				<key>Name</key>
+				<string>AppleIntelFramebufferAzul</string>
+				<key>Replace</key>
+				<data>
+				AwYIAAAEAAAAAAAA
+				</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string>IONVMeFamily: Ignore FLBAS bit:4 being set - for Plextor/LiteOn/Hynix (credit Pene)</string>
 				<key>Disabled</key>
 				<false/>
