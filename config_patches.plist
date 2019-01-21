@@ -2455,41 +2455,81 @@
 				</data>
 			</dict>
 			<dict>
-    		    <key>Comment</key>
-    		    <string>Set the maximum link rate in DPCD buffer to 0x14 (HBR2) for laptops with 4K display (by FireWolf)</string>
-    		    <key>Disabled</key>
-    		    <false/>
-    		    <key>Find</key>
-    		    <data>
-    		    6AAAAABIg8MESIP7CHLQ
-    		    </data>
-    		    <key>InfoPlistPatch</key>
-    		    <false/>
-    		    <key>Name</key>
-    		    <string>AppleIntelCFLGraphicsFramebuffer</string>
-    		    <key>Replace</key>
-    		    <data>
-    		    QYO8JNwBAAAAdQTGRcEU
-    		    </data>
-    		</dict>
-    		<dict>
-    		    <key>Comment</key>
-    		    <string>Set the maximum link rate in DPCD buffer to 0x0A (HBR) for laptops with 1080p or below display (by FireWolf)</string>
-    		    <key>Disabled</key>
-    		    <false/>
-    		    <key>Find</key>
-    		    <data>
-    		    6AAAAABIg8MESIP7CHLQ
-    		    </data>
-    		    <key>InfoPlistPatch</key>
-    		    <false/>
-    		    <key>Name</key>
-    		    <string>AppleIntelCFLGraphicsFramebuffer</string>
-    		    <key>Replace</key>
-    		    <data>
-    		    QYO8JNwBAAAAdQTGRcEK
-    		    </data>
-    		</dict>
+				<key>Comment</key>
+				<string>Set the maximum link rate in DPCD buffer to 0x14 (HBR2) for laptops with 4K display (by FireWolf)</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>
+				6AAAAABIg8MESIP7CHLQ
+				</data>
+				<key>InfoPlistPatch</key>
+				<false/>
+				<key>Name</key>
+				<string>AppleIntelCFLGraphicsFramebuffer</string>
+				<key>Replace</key>
+				<data>
+				QYO8JNwBAAAAdQTGRcEU
+				</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>Set the maximum link rate in DPCD buffer to 0x0A (HBR) for laptops with 1080p or below display (by FireWolf)</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>
+				6AAAAABIg8MESIP7CHLQ
+				</data>
+				<key>InfoPlistPatch</key>
+				<false/>
+				<key>Name</key>
+				<string>AppleIntelCFLGraphicsFramebuffer</string>
+				<key>Replace</key>
+				<data>
+				QYO8JNwBAAAAdQTGRcEK
+				</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>USB port limit patch 10.14.x modify by DalianSky(credit ydeng)</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>
+				g/sPDw==
+				</data>
+				<key>InfoPlistPatch</key>
+				<false/>
+				<key>MatchOS</key>
+				<string>10.14.x</string>
+				<key>Name</key>
+				<string>com.apple.iokit.IOUSBHostFamily</string>
+				<key>Replace</key>
+				<data>
+				g/s/Dw==
+				</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>USB Port limit patch 10.14.x modify by DalianSky(credits PMheart)</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>
+				g/sPDw==
+				</data>
+				<key>InfoPlistPatch</key>
+				<false/>
+				<key>MatchOS</key>
+				<string>10.14.x</string>
+				<key>Name</key>
+				<string>com.apple.driver.usb.AppleUSBXHCI</string>
+				<key>Replace</key>
+				<data>
+				g/s/Dw==
+				</data>
+			</dict>
 		</array>
 	</dict>
 	<key>KernelToPatch</key>
