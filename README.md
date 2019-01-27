@@ -2,6 +2,13 @@
 > 黑苹果常用的补丁
 
 # Changelog
+- 1-27-2019
+
+  - 完善 10.14.3 的 USB 补丁
+  - 添加 10.14.4 Beta USB 补丁
+
+  _[https://www.tonymacx86.com/threads/usb-port-limit-patch-for-14-1-14-2-14-3.268893/](https://www.tonymacx86.com/threads/usb-port-limit-patch-for-14-1-14-2-14-3.268893/)_
+
 - 1-21-2019
 
   - 添加笔记本一代酷睿i系列的核显驱动补丁 -- 10.6~10.13
