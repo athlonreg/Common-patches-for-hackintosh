@@ -3,7 +3,7 @@
 
 # Changelog
 - 7-30-2019
-- 修复AMD显卡开机紫条的问题（需要重建缓存）
+  - 修复AMD显卡开机紫条的问题（需要重建缓存）
 
 - [https://www.insanelymac.com/forum/topic/325987-whatevergreen-support-topic/?do=findComment&comment=2682039](https://www.insanelymac.com/forum/topic/325987-whatevergreen-support-topic/?do=findComment&comment=2682039)
 
