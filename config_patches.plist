@@ -3529,6 +3529,46 @@
 				g+M/0+NBCd8=
 				</data>
 			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>ATIController TestVRAM boot failure patch</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>
+				VTsMkA==
+				</data>
+				<key>InfoPlistPatch</key>
+				<false/>
+				<key>MatchOS</key>
+				<string>10.14.x,10.15.x</string>
+				<key>Name</key>
+				<string>AMDSupport</string>
+				<key>Replace</key>
+				<data>
+				VTnJkA==
+				</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>ATIController TestVRAM magenta-colored lines patch</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>
+				xwSxqlWqVQ==
+				</data>
+				<key>InfoPlistPatch</key>
+				<false/>
+				<key>MatchOS</key>
+				<string>10.14.x,10.15.x</string>
+				<key>Name</key>
+				<string>AMDSupport</string>
+				<key>Replace</key>
+				<data>
+				kJCQkJCQkA==
+				</data>
+			</dict>
 		</array>
 	</dict>
 	<key>KernelToPatch</key>

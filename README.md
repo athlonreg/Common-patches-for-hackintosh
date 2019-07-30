@@ -2,6 +2,11 @@
 > 黑苹果常用的补丁
 
 # Changelog
+- 7-30-2019
+- 修复AMD显卡开机紫条的问题（需要重建缓存）
+
+- [https://www.insanelymac.com/forum/topic/325987-whatevergreen-support-topic/?do=findComment&comment=2682039](https://www.insanelymac.com/forum/topic/325987-whatevergreen-support-topic/?do=findComment&comment=2682039)
+
 - 2-1-2019
 
   - 添加华擎Z390升级BIOS后无法进系统的重命名补丁
