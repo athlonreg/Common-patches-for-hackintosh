@@ -2,7 +2,12 @@
 > 黑苹果常用的补丁
 
 # Changelog
+- 11-22-2019
+  
+  - 添加 10.15 的 USB 补丁
+
 - 7-30-2019
+
   - 修复AMD显卡开机紫条的问题（需要重建缓存）
   - [https://www.insanelymac.com/forum/topic/325987-whatevergreen-support-topic/?do=findComment&comment=2682039](https://www.insanelymac.com/forum/topic/325987-whatevergreen-support-topic/?do=findComment&comment=2682039)
 
