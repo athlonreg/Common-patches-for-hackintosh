@@ -2,8 +2,21 @@
 > 黑苹果常用的补丁
 
 # Changelog
+
+- 1-20-2020
+
+  - 添加 AGDP 禁用补丁
+
+  > 需要修复权限
+
+  ```bash
+  sudo mount -uw /
+  sudo update_dyld_shared_cache -force
+  sudo kextcache -i /
+  ```
+
 - 11-22-2019
-  
+
   - 添加 10.15 的 USB 补丁
 
 - 7-30-2019

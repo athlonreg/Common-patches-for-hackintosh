@@ -2819,6 +2819,21 @@
 				<key>Replace</key>
 				<data>g/k/Dw==</data>
 			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>Disable ADGP</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>Ym9hcmQtaWQ=</data>
+				<key>InfoPlistPatch</key>
+				<false/>
+				<key>Name</key>
+				<string>com.apple.driver.AppleGraphicsDevicePolicy
+</string>
+				<key>Replace</key>
+				<data>Ym9hcmQtaXg=</data>
+			</dict>
 		</array>
 	</dict>
 	<key>KernelToPatch</key>
