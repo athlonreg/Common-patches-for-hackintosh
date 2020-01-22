@@ -2834,6 +2834,22 @@
 				<key>Replace</key>
 				<data>Ym9hcmQtaXg=</data>
 			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>DVMT for AppleIntelCFLGraphicsFramebuffer﻿ (Credits DalianSky) for 10.15.x</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>D4KnAwAA</data>
+				<key>InfoPlistPatch</key>
+				<false/>
+				<key>MatchOS</key>
+				<string>10.15.x</string>
+				<key>Name</key>
+				<string>AppleIntelCFLGraphicsFramebuffer</string>
+				<key>Replace</key>
+				<data>D4IAAAAA</data>
+			</dict>
 		</array>
 	</dict>
 	<key>KernelToPatch</key>
