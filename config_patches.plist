@@ -2850,6 +2850,38 @@
 				<key>Replace</key>
 				<data>D4IAAAAA</data>
 			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>DVMT for AppleIntelKBLGraphicsFramebuffer﻿ (Credits DalianSky) for 10.15.x</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>D4KnAwAA</data>
+				<key>InfoPlistPatch</key>
+				<false/>
+				<key>MatchOS</key>
+				<string>10.15.x</string>
+				<key>Name</key>
+				<string>AppleIntelKBLGraph﻿icsFramebuffer﻿﻿﻿</string>
+				<key>Replace</key>
+				<data>D4IAAAAA</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>DVMT for AppleIntelSKLGraphicsFramebuffer﻿ (Credits DalianSky) for 10.15.x</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>D4KPAwAA</data>
+				<key>InfoPlistPatch</key>
+				<false/>
+				<key>MatchOS</key>
+				<string>10.15.x</string>
+				<key>Name</key>
+				<string>AppleIntelSKLGraph﻿icsFramebuffer﻿﻿﻿</string>
+				<key>Replace</key>
+				<data>D4IAAAAA</data>
+			</dict>
 		</array>
 	</dict>
 	<key>KernelToPatch</key>
